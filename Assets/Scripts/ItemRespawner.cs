@@ -2,7 +2,6 @@ using UnityEngine;
 public class ItemRespawner : MonoBehaviour
 {
     public GameObject Item;
-   
     private Transform player;
  
     private void Start()

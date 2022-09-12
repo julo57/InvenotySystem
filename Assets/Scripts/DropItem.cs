@@ -15,7 +15,7 @@ public class DropItem : MonoBehaviour
     {
         if(transform.childCount == 0)
         {
-            invetory.IsFull[i] = false;
+            //invetory.IsFull[i] = false;
         }
     }
 
